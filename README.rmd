@@ -7,3 +7,6 @@ output: github_document
 # Fun text
 
 here's some cool text
+
+# text for another commit
+nice

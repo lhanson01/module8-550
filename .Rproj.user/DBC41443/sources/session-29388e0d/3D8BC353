@@ -3,7 +3,7 @@
     "path": "~/DATA550/module8/preread/README.rmd",
     "project_path": "README.rmd",
     "type": "r_markdown",
-    "hash": "605349998",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1773781028575.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773781374,
+    "lastKnownWriteTime": 1773781604,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773781374180,
+    "last_content_update": 1773781604624,
     "read_only": false,
     "read_only_alternatives": []
 }
