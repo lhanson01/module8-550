@@ -10,6 +10,6 @@ here’s some cool text
 
 nice
 
-\#another line
+# another line
 
 neat
