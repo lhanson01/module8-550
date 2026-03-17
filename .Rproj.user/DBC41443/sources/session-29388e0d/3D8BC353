@@ -3,24 +3,24 @@
     "path": "~/DATA550/module8/preread/README.rmd",
     "project_path": "README.rmd",
     "type": "r_markdown",
-    "hash": "3687117680",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1773781028575.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,41",
-        "scrollLine": "0"
+        "cursorPosition": "19,28",
+        "scrollLine": "2"
     },
     "folds": "",
     "lastKnownWriteTime": 1773781817,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773781818003,
+    "last_content_update": 1773781962317,
     "read_only": false,
     "read_only_alternatives": []
 }
