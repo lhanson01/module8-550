@@ -1,0 +1,9 @@
+---
+title: Github repo pracice
+author: Liam Hanson
+output: github_document
+---
+
+# Fun text
+
+here's some cool text
